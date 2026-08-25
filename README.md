@@ -29,7 +29,7 @@ type AnshuKashyap struct {
 
 func NewProfile() AnshuKashyap {
 	return AnshuKashyap{
-		Username:     "AanshuKashyap01",
+		Username:     "AnshuKashyap01",
 		Role:         "Golang Backend Developer",
 		Languages:    []string{"Go", "Python", "C", "C++", "Kotlin", "Java"},
 		CurrentFocus: "Building scalable, high-performance backend systems with Go",
