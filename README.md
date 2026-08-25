@@ -112,7 +112,7 @@ func NewProfile() AnshuKashyap {
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuKashyap01&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
   <!-- Activity Graph -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuKashyap01&theme=redical&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuKashyap01&theme=radical&hide_border=true&area=true" />
 
 </div>
 
