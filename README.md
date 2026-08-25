@@ -121,7 +121,7 @@ func NewProfile() AnshuKashyap {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuKashyap01&bg_color=141321&color=A855F7&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://ghchart.rshah.org/A855F7/AnshuKashyap01" alt="AnshuKashyap01's GitHub contribution chart" />
 </div>
 
 ---
