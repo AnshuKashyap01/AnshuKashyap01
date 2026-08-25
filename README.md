@@ -98,8 +98,8 @@ func NewProfile() AnshuKashyap {
 
 <div align="center">
 
-  <!-- Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnshuKashyap01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- Stats Card (via GitHub Stats Extended — the maintained successor to github-readme-stats) -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=AnshuKashyap01&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 
   <!-- Streak Stats -->
   <img width="49%" src="https://streak-stats.demolab.com?user=AnshuKashyap01&theme=radical&hide_border=true" />
@@ -108,8 +108,8 @@ func NewProfile() AnshuKashyap {
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuKashyap01&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <!-- Top Languages (via GitHub Stats Extended) -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnshuKashyap01&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
   <!-- Activity Graph -->
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuKashyap01&theme=radical&hide_border=true&area=true" />
